@@ -1,0 +1,57 @@
+html {
+    font-family: 'Trebuchet MS', "Times New Roman";
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #ffa07a30;
+}
+
+h1,h2,h3 {
+    color: darkslategrey;
+}
+
+h1,h2,h3,p {
+    margin-bottom: 15px;
+}
+
+ul.home {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+img {
+    display: block;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+li {
+    padding: 10px;
+}
+
+li.recipe {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+button {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+button.home {
+    padding: 10px;
+}
